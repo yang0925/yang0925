@@ -12,5 +12,6 @@
 <h3>🌱 I’m currently learning</h3>
 <ul>
   <li>Android</li>
+  <li>Node.js</li>
  </ul>
  
